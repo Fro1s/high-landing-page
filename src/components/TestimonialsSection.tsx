@@ -3,17 +3,17 @@ import React from "react";
 const testimonials = [
   {
     name: "João Silva",
-    company: "Startup X",
+    company: "Startup",
     text: "A High Developments entregou nossa plataforma com agilidade e qualidade. Superou expectativas!",
   },
   {
     name: "Maria Oliveira",
-    company: "Agência Y",
+    company: "Agência Financeira",
     text: "Equipe muito profissional, design moderno e suporte excelente. Recomendo!",
   },
   {
     name: "Carlos Souza",
-    company: "E-commerce Z",
+    company: "E-commerce",
     text: "Nossos resultados melhoraram muito após o novo sistema desenvolvido pela High Developments.",
   },
 ];
