@@ -9,7 +9,7 @@ import { Phone } from "lucide-react";
 export default function FloatingContactButton() {
   const [showEmailForm, setShowEmailForm] = useState(false);
   const [message, setMessage] = useState("");
-  const email = "contato@highdevelopments.com";
+  const email = "atendimento@high-development.com.br";
   const gmailLink = `https://mail.google.com/mail/?view=cm&fs=1&to=${email}&su=Contato%20High%20Developments&body=${encodeURIComponent(message)}`;
 
   return (
