@@ -4,7 +4,7 @@ const testimonials = [
   {
     name: "João Silva",
     company: "Startup",
-    text: "A High Developments entregou nossa plataforma com agilidade e qualidade. Superou expectativas!",
+    text: "A High Development entregou nossa plataforma com agilidade e qualidade. Superou expectativas!",
   },
   {
     name: "Maria Oliveira",
@@ -14,7 +14,7 @@ const testimonials = [
   {
     name: "Carlos Souza",
     company: "E-commerce",
-    text: "Nossos resultados melhoraram muito após o novo sistema desenvolvido pela High Developments.",
+    text: "Nossos resultados melhoraram muito após o novo sistema desenvolvido pela High Development.",
   },
 ];
 

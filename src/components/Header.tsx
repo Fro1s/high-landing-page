@@ -18,7 +18,7 @@ export default function Header() {
     <header className="fixed top-0 left-0 w-full z-50 bg-background/80 backdrop-blur border-b border-primary/20 dark:border-primary shadow-lg transition-all">
       <nav className="max-w-6xl mx-auto flex items-center justify-between px-6 py-4">
         <span className="text-2xl font-extrabold tracking-tight text-primary select-none">
-          HIGH DEVELOPMENTS
+          HIGH DEVELOPMENT
         </span>
         <NavigationMenu className="hidden md:flex">
           <NavigationMenuList className="flex gap-6 text-base font-medium text-primary">

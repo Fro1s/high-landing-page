@@ -33,7 +33,7 @@ export default function FooterSection() {
         <div className="w-full flex flex-col items-center justify-center">
           <div className="flex flex-col items-center">
             <Image src={LogoHigh} alt="High Developments Logo" width={100} height={100} className="mb-2" />
-            <span className="font-bold text-xl sm:text-2xl text-center">HIGH DEVELOPMENTS</span>
+            <span className="font-bold text-xl sm:text-2xl text-center">HIGH DEVELOPMENT</span>
           </div>
         </div>
 
@@ -47,7 +47,7 @@ export default function FooterSection() {
           </Link>
         </div>
       </div>
-      <div className="text-white text-xs sm:text-sm text-center">© {new Date().getFullYear()} High Developments. Todos os direitos reservados.</div>
+      <div className="text-white text-xs sm:text-sm text-center">© {new Date().getFullYear()} HIGH DEVELOPMENT. Todos os direitos reservados.</div>
     </footer>
   );
 }
